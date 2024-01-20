@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**Spottedleaf/Spottedleaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most of my work is centered around improving performance for the Minecraft dedicated server, specifically with [Paper](https://github.com/PaperMC/Paper/)
+and [Folia](https://github.com/PaperMC/Folia/).
 
-Here are some ideas to get you started:
+### Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Created [Folia](https://github.com/PaperMC/Folia/)
+- Created [Starlight](https://github.com/PaperMC/Starlight/)
+- Created [DataConverter](https://github.com/PaperMC/DataConverter)
+- Author of [Tuinity](https://github.com/Tuinity/Tuinity), which has since merged into Paper.
+- Maintainer on [Paper](https://github.com/PaperMC/Paper/)
+
+### Contacts
+[https://linktr.ee/spottedleaf](https://linktr.ee/spottedleaf)

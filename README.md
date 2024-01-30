@@ -5,9 +5,7 @@ and [Folia](https://github.com/PaperMC/Folia/).
 
 ### Work
 
-- Created [Folia](https://github.com/PaperMC/Folia/)
-- Created [Starlight](https://github.com/PaperMC/Starlight/)
-- Created [DataConverter](https://github.com/PaperMC/DataConverter)
+- Created [Folia](https://github.com/PaperMC/Folia/), [Starlight](https://github.com/PaperMC/Starlight/), [DataConverter](https://github.com/PaperMC/DataConverter)
 - Author of [Tuinity](https://github.com/Tuinity/Tuinity), which has since merged into Paper.
 - Maintainer on [Paper](https://github.com/PaperMC/Paper/)
 
